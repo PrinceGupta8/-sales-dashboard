@@ -1,3 +1,7 @@
+import streamlit as st
+import pandas as pd
+import numpy as np
+import plotly.express as px
 #9. **Mini Dashboard**  
    #Create a dashboard for a dataset (e.g., COVID-19 data or a sales dataset) that displays:  
    ##- Summary statistics (mean, median, count) for numeric columns.  
